@@ -3,5 +3,8 @@
   "packageManager": "yarn@4.6.0",
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0"
+  },
+  "scripts": {
+    "build": "yarn exec eleventy"
   }
 }
